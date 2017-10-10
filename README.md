@@ -1,2 +1,2 @@
 # KattisProblems
-Solutions to some problemes from Open Kattis
+Solutions to some problems from Open Kattis
