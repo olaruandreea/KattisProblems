@@ -1,2 +1,2 @@
 # KattisProblems
-Solutions to some problems from Open Kattis!!!!!!!!
+Solutions to some problems from Open Kattis written in Python!!!!!!!!
