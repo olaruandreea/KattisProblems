@@ -1,8 +1,12 @@
-temperature = input()
-no = raw_input()
-tokens = no.split()
-count = 0 
-for i in tokens:
-    if int(i) < 0:
-        count +=1
-print count
+def read_input(number):
+	temperatures = raw_input()
+	count = 0
+	tokens = temperatures.split()
+	for each in tokens:
+		if int(each) < 0:
+			count+= 1
+	return count
+
+if __name__ == '__main__':
+	number = int(raw_input())
+	print read_input(number)
